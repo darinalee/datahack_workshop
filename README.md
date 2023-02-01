@@ -1,2 +1,2 @@
 # datahack_workshop
- The data hack workshop
+ The Datahack Workshop
